@@ -1,6 +1,6 @@
 <div align='center' >
 
-  ### Hi! PPhat 👋
+  ### Hi! L-Sophat 👋
 <img align='middle' src='https://raw.githubusercontent.com/L-Sophat/L-Sophat/main/me.svg'/>
 
 <br>
