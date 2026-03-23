@@ -48,8 +48,8 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████████████░░░░ ⁝ 84.9% • TypeScript
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 8.17% • Bash
+█████████████████████░░░░ ⁝ 84.91% • TypeScript
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 8.16% • Bash
 █░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.38% • Python
 █░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.32% • Markdown
 ░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.15% • Other
