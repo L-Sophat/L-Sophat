@@ -12,17 +12,8 @@
 
 <br>
 
-![icon-typescript](https://stats.pphat.top/icons/typescript?color=%230088CC&glow=true&glowColor=%2300C58E)
-![icon-javascript](https://stats.pphat.top/icons/javascript?color=%23FFDE57&glow=true&glowColor=%23FFDE57)
-![icon-nodedotjs](https://stats.pphat.top/icons/nodedotjs?color=%23339933&glow=true&glowColor=%2300C58E)
-![icon-nextjs](https://stats.pphat.top/icons/nextjs?color=black&glow=true&glowColor=%2300C58E)
-![icon-shadcnui](https://stats.pphat.top/icons/shadcnui?color=black&glow=true&glowColor=%2300C58E)
-![icon-nuxt](https://stats.pphat.top/icons/nuxt?color=%2300C58E&glow=true&glowColor=%2300C58E)
-![icon-postgresql](https://stats.pphat.top/icons/postgresql?color=%230088CC&glow=true&glowColor=%2300C58E)
-![icon-drizzle](https://stats.pphat.top/icons/drizzle?color=%238EED14&glow=true&glowColor=%2300C58E)
-![icon-tailwindcss](https://stats.pphat.top/icons/tailwindcss?color=%2338B2AC&glow=true&glowColor=%2300C58E)
-![icon-laravel](https://stats.pphat.top/icons/laravel?color=%23FF2D20&glow=true&glowColor=%2300C58E)
-![icon-csharp](https://stats.pphat.top/icons/csharp?color=%2300AACC&glow=true&glowColor=%2300C58E)
+![Tech Stack](https://stats.pphat.top/icons?name=typescript,javascript,nodedotjs,nextjs,shadcnui,nuxt,postgresql,drizzle,tailwindcss,laravel,csharp&columns=12&size=medium&effect=wave)
+
 
 
 <img align='middle' src="https://stats.pphat.top/graph?username=L-Sophat&false&animate=pulse&size=small&show_title=false&show_total_contribution=false&show_background=true" width="100%"/>
