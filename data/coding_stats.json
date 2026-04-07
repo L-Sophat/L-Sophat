@@ -1,123 +1,6 @@
 {
     "data": [
         {
-            "grand_total": {
-                "hours": 11,
-                "minutes": 43,
-                "total_seconds": 42197.762,
-                "digital": "11:43",
-                "decimal": "11.72",
-                "text": "11 hrs 43 mins",
-                "ai_additions": 5618,
-                "ai_deletions": 84,
-                "human_additions": 947,
-                "human_deletions": 907
-            },
-            "range": {
-                "start": "2026-04-05T17:00:00Z",
-                "end": "2026-04-06T16:59:59Z",
-                "date": "2026-04-06",
-                "text": "Mon Apr 6th 2026",
-                "timezone": "Asia/Bangkok"
-            },
-            "projects": [
-                {
-                    "name": "stats.pphat.top",
-                    "total_seconds": 27756.755,
-                    "ai_additions": 5618,
-                    "ai_deletions": 84,
-                    "human_additions": 547,
-                    "human_deletions": 670,
-                    "color": null,
-                    "digital": "7:42:36",
-                    "decimal": "7.70",
-                    "text": "7 hrs 42 mins",
-                    "hours": 7,
-                    "minutes": 42,
-                    "seconds": 36,
-                    "percent": 65.78
-                },
-                {
-                    "name": "accounting-system",
-                    "total_seconds": 12162.943,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 400,
-                    "human_deletions": 237,
-                    "color": null,
-                    "digital": "3:22:42",
-                    "decimal": "3.37",
-                    "text": "3 hrs 22 mins",
-                    "hours": 3,
-                    "minutes": 22,
-                    "seconds": 42,
-                    "percent": 28.82
-                },
-                {
-                    "name": "test-purge",
-                    "total_seconds": 790.589,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "color": null,
-                    "digital": "0:13:10",
-                    "decimal": "0.22",
-                    "text": "13 mins",
-                    "hours": 0,
-                    "minutes": 13,
-                    "seconds": 10,
-                    "percent": 1.87
-                },
-                {
-                    "name": "github-stats",
-                    "total_seconds": 777.69,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "color": null,
-                    "digital": "0:12:57",
-                    "decimal": "0.20",
-                    "text": "12 mins",
-                    "hours": 0,
-                    "minutes": 12,
-                    "seconds": 57,
-                    "percent": 1.84
-                },
-                {
-                    "name": "standard-template",
-                    "total_seconds": 637.751,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "color": null,
-                    "digital": "0:10:37",
-                    "decimal": "0.17",
-                    "text": "10 mins",
-                    "hours": 0,
-                    "minutes": 10,
-                    "seconds": 37,
-                    "percent": 1.51
-                },
-                {
-                    "name": "node-with-cloudflare",
-                    "total_seconds": 72.034,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "color": null,
-                    "digital": "0:01:12",
-                    "decimal": "0.02",
-                    "text": "1 min",
-                    "hours": 0,
-                    "minutes": 1,
-                    "seconds": 12,
-                    "percent": 0.17
-                }
-            ],
             "languages": [
                 {
                     "name": "TypeScript",
@@ -272,6 +155,90 @@
                     "minutes": 0,
                     "seconds": 2,
                     "percent": 0.01
+                }
+            ],
+            "grand_total": {
+                "hours": 11,
+                "minutes": 43,
+                "total_seconds": 42197.762,
+                "digital": "11:43",
+                "decimal": "11.72",
+                "text": "11 hrs 43 mins",
+                "ai_additions": 5618,
+                "ai_deletions": 84,
+                "human_additions": 947,
+                "human_deletions": 907
+            },
+            "editors": [
+                {
+                    "name": "VS Code",
+                    "total_seconds": 42197.762,
+                    "digital": "11:43:17",
+                    "decimal": "11.72",
+                    "text": "11 hrs 43 mins",
+                    "hours": 11,
+                    "minutes": 43,
+                    "seconds": 17,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 42197.762,
+                    "digital": "11:43:17",
+                    "decimal": "11.72",
+                    "text": "11 hrs 43 mins",
+                    "hours": 11,
+                    "minutes": 43,
+                    "seconds": 17,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 35582.748,
+                    "digital": "9:53:02",
+                    "decimal": "9.88",
+                    "text": "9 hrs 53 mins",
+                    "hours": 9,
+                    "minutes": 53,
+                    "seconds": 2,
+                    "percent": 84.32
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 4653.22,
+                    "digital": "1:17:33",
+                    "decimal": "1.28",
+                    "text": "1 hr 17 mins",
+                    "hours": 1,
+                    "minutes": 17,
+                    "seconds": 33,
+                    "percent": 11.03
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 1653.63,
+                    "digital": "0:27:33",
+                    "decimal": "0.45",
+                    "text": "27 mins",
+                    "hours": 0,
+                    "minutes": 27,
+                    "seconds": 33,
+                    "percent": 3.92
+                },
+                {
+                    "name": "Writing Tests",
+                    "total_seconds": 308.164,
+                    "digital": "0:05:08",
+                    "decimal": "0.08",
+                    "text": "5 mins",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 8,
+                    "percent": 0.73
                 }
             ],
             "dependencies": [
@@ -3206,78 +3173,111 @@
                     "percent": 31.52
                 }
             ],
-            "editors": [
+            "projects": [
                 {
-                    "name": "VS Code",
-                    "total_seconds": 42197.762,
-                    "digital": "11:43:17",
-                    "decimal": "11.72",
-                    "text": "11 hrs 43 mins",
-                    "hours": 11,
-                    "minutes": 43,
-                    "seconds": 17,
-                    "percent": 100.0
+                    "name": "stats.pphat.top",
+                    "total_seconds": 27756.755,
+                    "ai_additions": 5618,
+                    "ai_deletions": 84,
+                    "human_additions": 547,
+                    "human_deletions": 670,
+                    "color": null,
+                    "digital": "7:42:36",
+                    "decimal": "7.70",
+                    "text": "7 hrs 42 mins",
+                    "hours": 7,
+                    "minutes": 42,
+                    "seconds": 36,
+                    "percent": 65.78
+                },
+                {
+                    "name": "accounting-system",
+                    "total_seconds": 12162.943,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 400,
+                    "human_deletions": 237,
+                    "color": null,
+                    "digital": "3:22:42",
+                    "decimal": "3.37",
+                    "text": "3 hrs 22 mins",
+                    "hours": 3,
+                    "minutes": 22,
+                    "seconds": 42,
+                    "percent": 28.82
+                },
+                {
+                    "name": "test-purge",
+                    "total_seconds": 790.589,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:13:10",
+                    "decimal": "0.22",
+                    "text": "13 mins",
+                    "hours": 0,
+                    "minutes": 13,
+                    "seconds": 10,
+                    "percent": 1.87
+                },
+                {
+                    "name": "github-stats",
+                    "total_seconds": 777.69,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:12:57",
+                    "decimal": "0.20",
+                    "text": "12 mins",
+                    "hours": 0,
+                    "minutes": 12,
+                    "seconds": 57,
+                    "percent": 1.84
+                },
+                {
+                    "name": "standard-template",
+                    "total_seconds": 637.751,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:10:37",
+                    "decimal": "0.17",
+                    "text": "10 mins",
+                    "hours": 0,
+                    "minutes": 10,
+                    "seconds": 37,
+                    "percent": 1.51
+                },
+                {
+                    "name": "node-with-cloudflare",
+                    "total_seconds": 72.034,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:01:12",
+                    "decimal": "0.02",
+                    "text": "1 min",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 12,
+                    "percent": 0.17
                 }
             ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 42197.762,
-                    "digital": "11:43:17",
-                    "decimal": "11.72",
-                    "text": "11 hrs 43 mins",
-                    "hours": 11,
-                    "minutes": 43,
-                    "seconds": 17,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 35582.748,
-                    "digital": "9:53:02",
-                    "decimal": "9.88",
-                    "text": "9 hrs 53 mins",
-                    "hours": 9,
-                    "minutes": 53,
-                    "seconds": 2,
-                    "percent": 84.32
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 4653.22,
-                    "digital": "1:17:33",
-                    "decimal": "1.28",
-                    "text": "1 hr 17 mins",
-                    "hours": 1,
-                    "minutes": 17,
-                    "seconds": 33,
-                    "percent": 11.03
-                },
-                {
-                    "name": "AI Coding",
-                    "total_seconds": 1653.63,
-                    "digital": "0:27:33",
-                    "decimal": "0.45",
-                    "text": "27 mins",
-                    "hours": 0,
-                    "minutes": 27,
-                    "seconds": 33,
-                    "percent": 3.92
-                },
-                {
-                    "name": "Writing Tests",
-                    "total_seconds": 308.164,
-                    "digital": "0:05:08",
-                    "decimal": "0.08",
-                    "text": "5 mins",
-                    "hours": 0,
-                    "minutes": 5,
-                    "seconds": 8,
-                    "percent": 0.73
-                }
-            ]
+            "range": {
+                "start": "2026-04-05T17:00:00Z",
+                "end": "2026-04-06T16:59:59Z",
+                "date": "2026-04-06",
+                "text": "Mon Apr 6th 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-04-05T17:00:00Z",
