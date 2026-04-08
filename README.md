@@ -2,12 +2,7 @@
 
 <div align="center" style="margin-top: 20px;">
 
-![Portfolio](https://stats.pphat.top/badge/visitors?username=L-Sophat&theme=ocean)
-![Portfolio](https://stats.pphat.top/badge/repositories?username=L-Sophat&theme=neon)
-![Portfolio](https://stats.pphat.top/badge/languages?username=L-Sophat&theme=inferno)
-![Portfolio](https://stats.pphat.top/badge/followers?username=L-Sophat&theme=matrix)
-![Portfolio](https://stats.pphat.top/badge/total-stars?username=L-Sophat&theme=solar)
-![Portfolio](https://stats.pphat.top/badge/total-contributors?username=L-Sophat&theme=galaxy)
+![](https://stats.pphat.top/badges?name=visitors,repositories,languages,followers,total-stars,total-contributors&username=L-Sophat&theme=ocean,neon,inferno,matrix,solar,galaxy)
 
 
 <br>
