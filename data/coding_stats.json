@@ -1,59 +1,6 @@
 {
     "data": [
         {
-            "grand_total": {
-                "hours": 6,
-                "minutes": 54,
-                "total_seconds": 24863.506,
-                "digital": "6:54",
-                "decimal": "6.90",
-                "text": "6 hrs 54 mins",
-                "ai_additions": 2,
-                "ai_deletions": 0,
-                "human_additions": 1203,
-                "human_deletions": 530
-            },
-            "range": {
-                "start": "2026-04-07T17:00:00Z",
-                "end": "2026-04-08T16:59:59Z",
-                "date": "2026-04-08",
-                "text": "Wed Apr 8th 2026",
-                "timezone": "Asia/Bangkok"
-            },
-            "projects": [
-                {
-                    "name": "stats.pphat.top",
-                    "total_seconds": 22888.535,
-                    "ai_additions": 2,
-                    "ai_deletions": 0,
-                    "human_additions": 1203,
-                    "human_deletions": 524,
-                    "color": null,
-                    "digital": "6:21:28",
-                    "decimal": "6.35",
-                    "text": "6 hrs 21 mins",
-                    "hours": 6,
-                    "minutes": 21,
-                    "seconds": 28,
-                    "percent": 92.06
-                },
-                {
-                    "name": "studio",
-                    "total_seconds": 1974.971,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 6,
-                    "color": null,
-                    "digital": "0:32:54",
-                    "decimal": "0.53",
-                    "text": "32 mins",
-                    "hours": 0,
-                    "minutes": 32,
-                    "seconds": 54,
-                    "percent": 7.94
-                }
-            ],
             "languages": [
                 {
                     "name": "TypeScript",
@@ -197,6 +144,79 @@
                     "minutes": 0,
                     "seconds": 3,
                     "percent": 0.02
+                }
+            ],
+            "grand_total": {
+                "hours": 6,
+                "minutes": 54,
+                "total_seconds": 24863.506,
+                "digital": "6:54",
+                "decimal": "6.90",
+                "text": "6 hrs 54 mins",
+                "ai_additions": 2,
+                "ai_deletions": 0,
+                "human_additions": 1203,
+                "human_deletions": 530
+            },
+            "editors": [
+                {
+                    "name": "VS Code",
+                    "total_seconds": 24863.506,
+                    "digital": "6:54:23",
+                    "decimal": "6.90",
+                    "text": "6 hrs 54 mins",
+                    "hours": 6,
+                    "minutes": 54,
+                    "seconds": 23,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 24863.506,
+                    "digital": "6:54:23",
+                    "decimal": "6.90",
+                    "text": "6 hrs 54 mins",
+                    "hours": 6,
+                    "minutes": 54,
+                    "seconds": 23,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 21298.85,
+                    "digital": "5:54:58",
+                    "decimal": "5.90",
+                    "text": "5 hrs 54 mins",
+                    "hours": 5,
+                    "minutes": 54,
+                    "seconds": 58,
+                    "percent": 85.66
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 2908.148,
+                    "digital": "0:48:28",
+                    "decimal": "0.80",
+                    "text": "48 mins",
+                    "hours": 0,
+                    "minutes": 48,
+                    "seconds": 28,
+                    "percent": 11.7
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 656.508,
+                    "digital": "0:10:56",
+                    "decimal": "0.17",
+                    "text": "10 mins",
+                    "hours": 0,
+                    "minutes": 10,
+                    "seconds": 56,
+                    "percent": 2.64
                 }
             ],
             "dependencies": [
@@ -1920,67 +1940,47 @@
                     "percent": 100.0
                 }
             ],
-            "editors": [
+            "projects": [
                 {
-                    "name": "VS Code",
-                    "total_seconds": 24863.506,
-                    "digital": "6:54:23",
-                    "decimal": "6.90",
-                    "text": "6 hrs 54 mins",
+                    "name": "stats.pphat.top",
+                    "total_seconds": 22888.535,
+                    "ai_additions": 2,
+                    "ai_deletions": 0,
+                    "human_additions": 1203,
+                    "human_deletions": 524,
+                    "color": null,
+                    "digital": "6:21:28",
+                    "decimal": "6.35",
+                    "text": "6 hrs 21 mins",
                     "hours": 6,
-                    "minutes": 54,
-                    "seconds": 23,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 24863.506,
-                    "digital": "6:54:23",
-                    "decimal": "6.90",
-                    "text": "6 hrs 54 mins",
-                    "hours": 6,
-                    "minutes": 54,
-                    "seconds": 23,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 21298.85,
-                    "digital": "5:54:58",
-                    "decimal": "5.90",
-                    "text": "5 hrs 54 mins",
-                    "hours": 5,
-                    "minutes": 54,
-                    "seconds": 58,
-                    "percent": 85.66
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 2908.148,
-                    "digital": "0:48:28",
-                    "decimal": "0.80",
-                    "text": "48 mins",
-                    "hours": 0,
-                    "minutes": 48,
+                    "minutes": 21,
                     "seconds": 28,
-                    "percent": 11.7
+                    "percent": 92.06
                 },
                 {
-                    "name": "AI Coding",
-                    "total_seconds": 656.508,
-                    "digital": "0:10:56",
-                    "decimal": "0.17",
-                    "text": "10 mins",
+                    "name": "studio",
+                    "total_seconds": 1974.971,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 6,
+                    "color": null,
+                    "digital": "0:32:54",
+                    "decimal": "0.53",
+                    "text": "32 mins",
                     "hours": 0,
-                    "minutes": 10,
-                    "seconds": 56,
-                    "percent": 2.64
+                    "minutes": 32,
+                    "seconds": 54,
+                    "percent": 7.94
                 }
-            ]
+            ],
+            "range": {
+                "start": "2026-04-07T17:00:00Z",
+                "end": "2026-04-08T16:59:59Z",
+                "date": "2026-04-08",
+                "text": "Wed Apr 8th 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-04-07T17:00:00Z",
