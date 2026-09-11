@@ -100,7 +100,7 @@
                 "text": "9 hrs 16 mins",
                 "ai_additions": 29492,
                 "ai_deletions": 391,
-                "human_additions": 205,
+                "human_additions": 206,
                 "human_deletions": 1179,
                 "ai_model_line_changes": {
                     "Gemini": 2795,
@@ -140,7 +140,7 @@
                     "total_seconds": 22587.878,
                     "ai_additions": 2611,
                     "ai_deletions": 184,
-                    "human_additions": 205,
+                    "human_additions": 206,
                     "human_deletions": 1179,
                     "ai_model_line_changes": {
                         "Gemini": 2795
@@ -230,25 +230,25 @@
             "categories": [
                 {
                     "name": "AI Coding",
-                    "total_seconds": 28109.512,
-                    "digital": "7:48:29",
+                    "total_seconds": 28100.632,
+                    "digital": "7:48:20",
                     "decimal": "7.80",
                     "text": "7 hrs 48 mins",
                     "hours": 7,
                     "minutes": 48,
-                    "seconds": 29,
-                    "percent": 84.25
+                    "seconds": 20,
+                    "percent": 84.22
                 },
                 {
                     "name": "Coding",
-                    "total_seconds": 4518.768,
-                    "digital": "1:15:18",
+                    "total_seconds": 4527.648,
+                    "digital": "1:15:27",
                     "decimal": "1.25",
                     "text": "1 hr 15 mins",
                     "hours": 1,
                     "minutes": 15,
-                    "seconds": 18,
-                    "percent": 13.54
+                    "seconds": 27,
+                    "percent": 13.57
                 },
                 {
                     "name": "Writing Docs",
@@ -287,13 +287,13 @@
                 },
                 {
                     "name": "react",
-                    "total_seconds": 4999.735,
-                    "digital": "1:23:19",
+                    "total_seconds": 5003.615,
+                    "digital": "1:23:23",
                     "decimal": "1.38",
                     "text": "1 hr 23 mins",
                     "hours": 1,
                     "minutes": 23,
-                    "seconds": 19,
+                    "seconds": 23,
                     "percent": 4.01
                 },
                 {
@@ -547,7 +547,7 @@
                     "hours": 0,
                     "minutes": 30,
                     "seconds": 40,
-                    "percent": 1.48
+                    "percent": 1.47
                 },
                 {
                     "name": "datatable-action",
@@ -558,7 +558,7 @@
                     "hours": 0,
                     "minutes": 30,
                     "seconds": 40,
-                    "percent": 1.48
+                    "percent": 1.47
                 },
                 {
                     "name": "excel",
@@ -569,7 +569,7 @@
                     "hours": 0,
                     "minutes": 30,
                     "seconds": 40,
-                    "percent": 1.48
+                    "percent": 1.47
                 },
                 {
                     "name": "format-datetime",
@@ -580,7 +580,7 @@
                     "hours": 0,
                     "minutes": 30,
                     "seconds": 40,
-                    "percent": 1.48
+                    "percent": 1.47
                 },
                 {
                     "name": "csv",
@@ -591,7 +591,7 @@
                     "hours": 0,
                     "minutes": 30,
                     "seconds": 40,
-                    "percent": 1.48
+                    "percent": 1.47
                 },
                 {
                     "name": "data-table",
@@ -602,7 +602,7 @@
                     "hours": 0,
                     "minutes": 30,
                     "seconds": 40,
-                    "percent": 1.48
+                    "percent": 1.47
                 },
                 {
                     "name": "select",
@@ -613,7 +613,7 @@
                     "hours": 0,
                     "minutes": 30,
                     "seconds": 40,
-                    "percent": 1.48
+                    "percent": 1.47
                 },
                 {
                     "name": "currency",
@@ -624,7 +624,7 @@
                     "hours": 0,
                     "minutes": 30,
                     "seconds": 40,
-                    "percent": 1.48
+                    "percent": 1.47
                 },
                 {
                     "name": "get-params-from-route",
@@ -694,13 +694,13 @@
                 },
                 {
                     "name": "config",
-                    "total_seconds": 1021.66,
-                    "digital": "0:17:01",
+                    "total_seconds": 1022.796,
+                    "digital": "0:17:02",
                     "decimal": "0.28",
                     "text": "17 mins",
                     "hours": 0,
                     "minutes": 17,
-                    "seconds": 1,
+                    "seconds": 2,
                     "percent": 0.82
                 },
                 {
@@ -991,14 +991,14 @@
                 },
                 {
                     "name": "favicon",
-                    "total_seconds": 127.68,
-                    "digital": "0:02:07",
+                    "total_seconds": 132.68,
+                    "digital": "0:02:12",
                     "decimal": "0.03",
                     "text": "2 mins",
                     "hours": 0,
                     "minutes": 2,
-                    "seconds": 7,
-                    "percent": 0.1
+                    "seconds": 12,
+                    "percent": 0.11
                 },
                 {
                     "name": "VehicleTypePage",
@@ -1035,13 +1035,13 @@
                 },
                 {
                     "name": "auth",
-                    "total_seconds": 74.907,
-                    "digital": "0:01:14",
+                    "total_seconds": 76.043,
+                    "digital": "0:01:16",
                     "decimal": "0.02",
                     "text": "1 min",
                     "hours": 0,
                     "minutes": 1,
-                    "seconds": 14,
+                    "seconds": 16,
                     "percent": 0.06
                 },
                 {
@@ -1375,6 +1375,17 @@
                     "percent": 0.02
                 },
                 {
+                    "name": "useSocket",
+                    "total_seconds": 25.903,
+                    "digital": "0:00:25",
+                    "decimal": "0.00",
+                    "text": "25 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "percent": 0.02
+                },
+                {
                     "name": "@tanstack/react-query",
                     "total_seconds": 25.241,
                     "digital": "0:00:25",
@@ -1394,17 +1405,6 @@
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 25,
-                    "percent": 0.02
-                },
-                {
-                    "name": "useSocket",
-                    "total_seconds": 23.159,
-                    "digital": "0:00:23",
-                    "decimal": "0.00",
-                    "text": "23 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 23,
                     "percent": 0.02
                 },
                 {
@@ -2112,7 +2112,7 @@
                     "total_seconds": 11868.124,
                     "ai_additions": 26967,
                     "ai_deletions": 209,
-                    "human_additions": 97,
+                    "human_additions": 98,
                     "human_deletions": 657,
                     "ai_model_line_changes": {
                         "Opus": 27088,
